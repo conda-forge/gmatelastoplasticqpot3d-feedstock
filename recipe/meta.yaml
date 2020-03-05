@@ -1,6 +1,6 @@
 {% set name = "gmatelastoplasticqpot3d" %}
-{% set version = "0.1.0" %}
-{% set sha256 = "62db350ffa73108ab417ce9fb6f794cb6cbc6cd11df62eb861bb5b145c648315" %}
+{% set version = "0.5.0" %}
+{% set sha256 = "779d8ca95053f7cc83a4b360a2b58724e12f871dff58092bbb4109a086e38fad" %}
 
 package:
   name: {{ name|lower }}
@@ -35,8 +35,8 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'Elasto-plastic model based on a manifold of quadratic potentials (C++ header-only library).'
-  description: 'Elasto-plastic model based on a manifold of quadratic potentials (C++ header-only library).'
+  summary: Elasto-plastic model based on a manifold of quadratic potentials (C++ header-only library).
+  description: Elasto-plastic model based on a manifold of quadratic potentials (C++ header-only library).
   doc_url: https://github.com/tdegeus/GMatElastoPlasticQPot3d
   dev_url: https://github.com/tdegeus/GMatElastoPlasticQPot3d
 
