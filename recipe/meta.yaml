@@ -19,8 +19,12 @@ requirements:
     - cmake
     - make  # [unix]
     - xtensor
+    - gmattensor
+    - gmatelastic
   run:
     - xtensor
+    - gmattensor
+    - gmatelastic
 
 test:
   commands:
