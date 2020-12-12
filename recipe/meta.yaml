@@ -21,10 +21,12 @@ requirements:
     - xtensor
     - gmattensor
     - gmatelastic
+    - qpot
   run:
     - xtensor
     - gmattensor
     - gmatelastic
+    - qpot
 
 test:
   commands:
